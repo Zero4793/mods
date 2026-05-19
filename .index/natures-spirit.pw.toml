@@ -1,0 +1,25 @@
+filename = 'naturespirit-2.2.5-1.20.1.jar'
+name = "Nature's Spirit"
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.2.5-1.20.1'
+
+[download]
+hash = '898aaba14838cf3ff66ec995c37d68c962901655ebdaa9601f65d82f66fa2a2cfca11eebfb090771fc18c7045661d151a66cadb221b2f8866b5551110882f429'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/WBvnqHfV/versions/GW1xcaGA/naturespirit-2.2.5-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'WBvnqHfV'
+version = 'GW1xcaGA'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'kkmrDlKT'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'

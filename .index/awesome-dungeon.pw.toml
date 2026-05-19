@@ -1,0 +1,21 @@
+filename = 'awesomedungeon-fabric-1.20.1-3.2.0.jar'
+name = 'Awesome Dungeon'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '3.2.0'
+
+[download]
+hash = '7b7cf20be50ad3d1383c986a529ebe495aa1f0325cb53525e37af9fd5c84e0296bea0d006ca2663600ae33fe22d12e816ede8f1a9a754d23cf26a3be3f104786'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ptzsjBKT/versions/3ctNVLfK/awesomedungeon-fabric-1.20.1-3.2.0.jar'
+
+[update.modrinth]
+mod-id = 'ptzsjBKT'
+version = '3ctNVLfK'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'DOB2l4oJ'
+type = 'REQUIRED'
