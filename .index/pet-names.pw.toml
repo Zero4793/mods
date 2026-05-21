@@ -1,0 +1,21 @@
+filename = 'petnames-1.20.1-3.5.jar'
+name = 'Pet Names'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.20.1-3.5-fabric+forge+neo'
+
+[download]
+hash = 'a701ba0c3f410f5edd642a8c2d7d11d7832bb1e424d5cae9bb8f105a63181d83bec8fe6811ef098ca63767b048ae5371c14c62fe0b7ee3a45593d0c32e4a4d8e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/tOoh2eQm/versions/H9lHMDgD/petnames-1.20.1-3.5.jar'
+
+[update.modrinth]
+mod-id = 'tOoh2eQm'
+version = 'H9lHMDgD'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'e0M1UDsY'
+type = 'REQUIRED'

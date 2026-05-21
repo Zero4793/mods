@@ -1,0 +1,18 @@
+filename = 'mostructures-1.4.5+1.20.1.jar'
+name = "Mo' Structures (NeoForge/Fabric)"
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.4.5+1.20.1'
+
+[download]
+hash = 'a1457cc8b4fd42f26c7aaea0eb6bff44738ed3036704292803958d0af0e168ef643abf05e5aef5270b8c8ae0816a7a0805c6c456c5d071b4c5ba616054b9daf9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/PTGd6dWp/versions/WtqfRxEI/mostructures-1.4.5%2B1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'PTGd6dWp'
+version = 'WtqfRxEI'

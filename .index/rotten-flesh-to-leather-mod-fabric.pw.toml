@@ -1,0 +1,18 @@
+filename = ' rottenflesh-to-leather_1-20-x.jar'
+name = 'Rotten flesh to Leather (Fabric/Quilt)'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4', '1.20.5', '1.20.6' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.0'
+
+[download]
+hash = '9b3354e9434b3fc1a849f1be80f6748d40ba5f783e7d19b6580e5af089f38bfbd18fe2537f4652bec28f9fe25f01853eaec4e6ad611a5f1a58f2b0081cc47828'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/aDbO5Ehv/versions/E3EMSqDg/ rottenflesh-to-leather_1-20-x.jar'
+
+[update.modrinth]
+mod-id = 'aDbO5Ehv'
+version = 'E3EMSqDg'

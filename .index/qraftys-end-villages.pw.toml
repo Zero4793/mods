@@ -1,0 +1,18 @@
+filename = 'qraftys-end-villages-1.jar'
+name = "qrafty's End Villages"
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19.1', '1.19.2', '1.19.3', '1.19.4', '1.20', '1.20.1', '1.20.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1+mod'
+
+[download]
+hash = 'dc6bcd49f1b78605426de78f0f75a3c54925e7efc74c400d5e29dd3ed81e58aef5258262533b8a0b3699aa1c8fc9213787d28d36345f717624aa6fc40bf6fa09'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/NFlNaUBA/versions/M8PetBVr/qraftys-end-villages-1.jar'
+
+[update.modrinth]
+mod-id = 'NFlNaUBA'
+version = 'M8PetBVr'

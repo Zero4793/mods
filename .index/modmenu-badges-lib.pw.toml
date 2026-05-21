@@ -1,0 +1,22 @@
+filename = 'modmenu-badges-lib-2023.6.1.jar'
+name = 'ModMenu Badges Lib'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4', '1.20.5', '1.20.6', '1.21', '1.21.1', '1.21.2', '1.21.3', '1.21.4' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2023.6.1'
+
+[download]
+hash = '7385da83e2c2f92a523280cecc0a9ca61401fd1c541f071384d41bd5da76a385dffc5df09d74296ab100aef63033db61964c1ef3645a9f3c0627f1f0bc12d14a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/eUw8l2Vi/versions/n5smDDrP/modmenu-badges-lib-2023.6.1.jar'
+
+[update.modrinth]
+mod-id = 'eUw8l2Vi'
+version = 'n5smDDrP'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'mOgUt4GM'
+type = 'REQUIRED'
+version = 'eTCL1uh8'

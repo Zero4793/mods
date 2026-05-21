@@ -1,0 +1,33 @@
+filename = 'shifty-hotbar-mc1.20-1.1.jar'
+name = 'Shifty Hotbar'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'mc1.20-1.1'
+
+[download]
+hash = '782cdf5eea688a9d5b3824206f21018aeb10adb9603f5c2c786d8eb4ca7ff9e3b4aa121c9d212fa9c81508e7c9ba3487ab06d54e981623b340f3c7c176d5c12e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Vtzg2pos/versions/o0x5z8tp/shifty-hotbar-mc1.20-1.1.jar'
+
+[update.modrinth]
+mod-id = 'Vtzg2pos'
+version = 'o0x5z8tp'
+
+[[x-prismlauncher-dependencies]]
+addonId = '9s6osm5g'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'mOgUt4GM'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'O7RBXm3n'
+type = 'OPTIONAL'

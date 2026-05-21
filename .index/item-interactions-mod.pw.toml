@@ -1,0 +1,21 @@
+filename = 'item-interactions-mod-fabric+1.20.1-2.1.4.jar'
+name = 'Item interactions mod'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '2.1.4+1.20.1'
+
+[download]
+hash = '5321bd8e4fdd669a84a267227d8498c02a39532ed96b0dec11b71364c4c95caace73906478eeeb1d0311503a6a1f7da8b2b4a887b30cafa80afad8ae927887a4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/MC6hfccQ/versions/Jz3KlujH/item-interactions-mod-fabric%2B1.20.1-2.1.4.jar'
+
+[update.modrinth]
+mod-id = 'MC6hfccQ'
+version = 'Jz3KlujH'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'

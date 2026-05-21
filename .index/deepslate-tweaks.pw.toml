@@ -1,0 +1,18 @@
+filename = 'deepslatetweaks-fabric-1.2-1.20.1.jar'
+name = 'Deepslate Tweaks'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.2'
+
+[download]
+hash = '2de42ce7aa37f17bba19ab9ae967316ad11ca90b3172d5eb165f685d79be59a910d30a973b246fe7a328028dacf303ee5a7547ec6d567c854f0d227c33772158'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Jc0FvX5i/versions/9ao8A7sY/deepslatetweaks-fabric-1.2-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'Jc0FvX5i'
+version = '9ao8A7sY'

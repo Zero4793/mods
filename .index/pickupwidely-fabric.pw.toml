@@ -1,0 +1,18 @@
+filename = '[1.20.1] PickupWidely-0.0.1.jar'
+name = 'PickupWidely (Fabric)'
+side = 'client'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.0.1-1.20.1'
+
+[download]
+hash = 'a51ec0866b0ce36cc23c848dcebade106211c306aacfb6918ab14cf0256cc51734a945df11afc526eed25ee5195e3c22b117dd17709f732999a5f3be61d02033'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/TIY90Vub/versions/ZzhHrDYc/%5B1.20.1%5D PickupWidely-0.0.1.jar'
+
+[update.modrinth]
+mod-id = 'TIY90Vub'
+version = 'ZzhHrDYc'

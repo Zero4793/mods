@@ -1,0 +1,18 @@
+filename = 'better-respawn-fabric-1.20.1-2.0.4.jar'
+name = 'Better Respawn'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'alpha'
+x-prismlauncher-version-number = 'fabric-1.20.1-2.0.4'
+
+[download]
+hash = 'f1eeb9cccdcb0ad93d8bae724067498983553e870f1048d02f4a8160e3262425ad6c48a7fc5f16e63b71b7c9f00b9b77c8a0c8b445b182cf5c860c8fb706b9c7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ZUQINcGy/versions/JDoOjAwA/better-respawn-fabric-1.20.1-2.0.4.jar'
+
+[update.modrinth]
+mod-id = 'ZUQINcGy'
+version = 'JDoOjAwA'

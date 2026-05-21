@@ -1,0 +1,25 @@
+filename = 'indypets-1.4.12-1.20.1.jar'
+name = 'IndyPets - Independent Pets'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.4.12-1.20.1'
+
+[download]
+hash = '486e7adaa87fda8d84843e285853f86a24bda19bd11321ba26ef401903af4f08dc283a321138411006446f5ae5002105c0dd1b186669baebb27bbad7a334ee8a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/SVJhmJvx/versions/Wo8C0uFO/indypets-1.4.12-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'SVJhmJvx'
+version = 'Wo8C0uFO'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '9s6osm5g'
+type = 'REQUIRED'

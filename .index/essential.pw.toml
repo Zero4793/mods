@@ -1,0 +1,18 @@
+filename = 'Essential_1-3-10-9_fabric_1-20-1.jar'
+name = 'essential-container'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.3.10.9'
+
+[download]
+hash = 'f9f019b950be6bb67e2593f2d4bbd4adbb372674958cbe11598547a4da11ac1e779b6a3c7cbbb5469381e7874e2b46babc069576d77232b7d31d6606a9fb48b2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/k2ZPuTBm/versions/g9iVW0xG/Essential_1-3-10-9_fabric_1-20-1.jar'
+
+[update.modrinth]
+mod-id = 'k2ZPuTBm'
+version = 'g9iVW0xG'

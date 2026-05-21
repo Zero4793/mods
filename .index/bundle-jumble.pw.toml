@@ -1,0 +1,25 @@
+filename = 'bundle_jumble-1.0.2-mc1.20.1.jar'
+name = 'Bundle Jumble'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.2-mc1.20.1'
+
+[download]
+hash = 'b56aa343623e76eaa4ba08f775c4676be9dd82b3dc811acf9b9597b7f3a25929b37fe765c14d2f578e0a95fd52a098f0ed9b028096232a8a483c14fed1b00d2c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/DPswGlhM/versions/ALXWRAxT/bundle_jumble-1.0.2-mc1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'DPswGlhM'
+version = 'ALXWRAxT'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1eAoo2KR'
+type = 'REQUIRED'

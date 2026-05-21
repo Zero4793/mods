@@ -1,0 +1,18 @@
+filename = 'scary-creepers-1.0.1.jar'
+name = 'Scary Creepers'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '1.0.1'
+
+[download]
+hash = 'be3586c8c6de71960a3bf7704f98603f7612075999d5f6211ca54344407f38e19258524eb3ff3b516113a5194722a078e510ba739ab74f40f9cd98bb62d827bc'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/wY4tPrl4/versions/3qcIqftn/scary-creepers-1.0.1.jar'
+
+[update.modrinth]
+mod-id = 'wY4tPrl4'
+version = '3qcIqftn'

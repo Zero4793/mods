@@ -1,0 +1,25 @@
+filename = 'villager-hats-1.6.2+1.20.jar'
+name = 'Villager Hats'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.6.2+1.20'
+
+[download]
+hash = 'ace5396e35eb884fd75b4369b759a4b2bcd79deb682815500400b4399151f53a13ffdb727b983eab2db048e4fcdc2bb151cb5e5cfdd87b2261edb09de00649b3'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/vghf63Ct/versions/txeahyoE/villager-hats-1.6.2%2B1.20.jar'
+
+[update.modrinth]
+mod-id = 'vghf63Ct'
+version = 'txeahyoE'
+
+[[x-prismlauncher-dependencies]]
+addonId = '5aaWibi9'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'
