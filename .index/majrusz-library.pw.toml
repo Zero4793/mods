@@ -1,0 +1,21 @@
+filename = 'majrusz-library-fabric-1.20.1-7.0.8.jar'
+name = 'Majrusz Library'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '7.0.8'
+
+[download]
+hash = '60910be0960c1e384e1f68f4e605c167ac6d23fe7b172a9f9750660f8f94974304cc547de2b4773ea6595ba45932caa619334ab0b4df6ced21f045e6d766180d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/PYQD8noM/versions/nfkUUMHq/majrusz-library-fabric-1.20.1-7.0.8.jar'
+
+[update.modrinth]
+mod-id = 'PYQD8noM'
+version = 'nfkUUMHq'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'
