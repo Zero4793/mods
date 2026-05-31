@@ -1,21 +1,18 @@
-filename = 'enchantment-overhaul-0.4.0-beta+1.20.1.jar'
+filename = 'enchantment-overhaul-0.5.0+1.20.1.jar'
 name = 'Enchantment Overhaul'
-side = 'both'
+side = ''
+x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'beta'
-x-prismlauncher-version-number = '0.4.0-beta+1.20.1'
+x-prismlauncher-version-number = '0.5.0-beta+1.20.1'
 
 [download]
-hash = '16e00f89ff6882a685766d4ff285b3c82acb09ccad9165eec2764f8624c503e5c4bc30383a20cc2ba4621b081f2270843f7605f76979e265b548585bece4b6fa'
+hash = '4783601d564f806b0243d6fb947464d9729cfb049d0a01b874637a0ff8d47ba58373de734466c0c4983f490de3a7b395f35a724e729a2e344793f5c700bea7a1'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/iPA46eKp/versions/EmeC0jV5/enchantment-overhaul-0.4.0-beta%2B1.20.1.jar'
+url = 'https://cdn.modrinth.com/data/iPA46eKp/versions/p0EIVzBn/enchantment-overhaul-0.5.0%2B1.20.1.jar'
 
 [update.modrinth]
 mod-id = 'iPA46eKp'
-version = 'EmeC0jV5'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'P7dR8mSH'
-type = 'REQUIRED'
+version = 'p0EIVzBn'
