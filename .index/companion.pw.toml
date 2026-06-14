@@ -1,25 +1,25 @@
-filename = 'Companion-1.20.1-Fabric-5.3.1.jar'
-name = 'Companion 🐕'
-side = 'server'
+filename = 'Companion-1.20.1-Fabric-5.4.1.jar'
+name = 'Companion'
+side = ''
 x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '5.3.1+fabric'
+x-prismlauncher-version-number = '5.4.1+fabric'
 
 [download]
-hash = 'ff44765c81384609bb65065a3594da8a2be3716ef08f0599a0184fc991b959049512ea0eb8f14c2083f68698bcb5a2af1f3da4a145c052cc281c5d86f2db3777'
+hash = 'affcc2d3cfa2871bdf936b2d222f4e34dee9e53d1b8a8ad0055bc71ec14731c969095b3ca6e5b11fea3b7faeb8541c2abb1688c172081716a0df8e9d3a75aea3'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/4w0EzGRW/versions/i29UD4vR/Companion-1.20.1-Fabric-5.3.1.jar'
+url = 'https://cdn.modrinth.com/data/4w0EzGRW/versions/h9OKCOHX/Companion-1.20.1-Fabric-5.4.1.jar'
 
 [update.modrinth]
 mod-id = '4w0EzGRW'
-version = 'i29UD4vR'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'ufdDoWPd'
-type = 'REQUIRED'
+version = 'h9OKCOHX'
 
 [[x-prismlauncher-dependencies]]
 addonId = '9s6osm5g'
 type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'ufdDoWPd'
+type = 'REQUIRED'

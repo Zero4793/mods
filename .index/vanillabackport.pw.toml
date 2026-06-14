@@ -1,20 +1,20 @@
-filename = 'VanillaBackport-fabric-1.20.1-1.1.7.6.jar'
-name = 'Vanilla Backport'
-side = 'both'
+filename = 'VanillaBackport-fabric-1.20.1-1.1.7.10.jar'
+name = 'VanillaBackport'
+side = ''
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.1.7.6'
+x-prismlauncher-version-number = '1.1.7.10'
 
 [download]
-hash = '1b9ecad87c80c4caad67b7565f84d5ffb79f6888d1198b654bfd4eba38694e6975f53a0eb80b4f8096cbfe5cd103b8c3e732694e416e9fce8f12a1e9e9d7992d'
+hash = 'c5a6cf68f5c185cbe72c3f5c7cbff996f90482c0573391c97f630a0707cb24eb9000c780d6bcf97adf92aaf4617be21e757b8db2614715450243f00aff4c6e03'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/6xwxDTgf/versions/OQDowJW0/VanillaBackport-fabric-1.20.1-1.1.7.6.jar'
+url = 'https://cdn.modrinth.com/data/6xwxDTgf/versions/KbcStX3T/VanillaBackport-fabric-1.20.1-1.1.7.10.jar'
 
 [update.modrinth]
 mod-id = '6xwxDTgf'
-version = 'OQDowJW0'
+version = 'KbcStX3T'
 
 [[x-prismlauncher-dependencies]]
 addonId = 'i6fiqm5y'

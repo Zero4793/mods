@@ -1,20 +1,20 @@
-filename = 'Platform-fabric-1.20.1-1.3.3.jar'
+filename = 'Platform-fabric-1.20.1-1.3.4.jar'
 name = 'Platform'
-side = 'both'
+side = ''
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.3.3'
+x-prismlauncher-version-number = '1.3.4'
 
 [download]
-hash = '3c4069de18bf9efa25d6f7d47faa5e3230273fd6fa169bd0489354c7b4186cdf94db448e790ef6b83242c3a182d85e71f52cbb402fcc7a920f1a337edbdfb7dd'
+hash = '735e4da075d209c1d9406b36683ab6b85f0068db8b3c587112073017784f1ee81f1b8a7bac508f4ef28a08991d495aa90696cab466d8ec2adf552ca2d70bc6af'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/i6fiqm5y/versions/bzUnKsaY/Platform-fabric-1.20.1-1.3.3.jar'
+url = 'https://cdn.modrinth.com/data/i6fiqm5y/versions/kM9ocKlu/Platform-fabric-1.20.1-1.3.4.jar'
 
 [update.modrinth]
 mod-id = 'i6fiqm5y'
-version = 'bzUnKsaY'
+version = 'kM9ocKlu'
 
 [[x-prismlauncher-dependencies]]
 addonId = 'P7dR8mSH'

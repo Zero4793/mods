@@ -1,0 +1,29 @@
+filename = 'sophisticatedcore-1.20.1-1.2.7.15.166.jar'
+name = 'Sophisticated Core (Unofficial Fabric port)'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.20.1-1.2.7.15.166'
+
+[download]
+hash = '892dda2bfa2a49ed66e869877fc6309cfc3af11fe61859c3b1be341baf689a693fda30902dec5c9ec6f737fd8fe451615ceb3d1c31c51e40c38e68b59dfcf134'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/9jxwkYQL/versions/BP3CQI2v/sophisticatedcore-1.20.1-1.2.7.15.166.jar'
+
+[update.modrinth]
+mod-id = '9jxwkYQL'
+version = 'BP3CQI2v'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'tEJPA4Ty'
+type = 'EMBEDDED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'ohNO6lps'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'

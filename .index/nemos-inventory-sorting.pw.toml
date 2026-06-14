@@ -1,0 +1,21 @@
+filename = 'nemos-inventory-sorting-Fabric-1.20.1-1.8.2.jar'
+name = "Nemo's Inventory Sorting"
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.20.1-1.8.2'
+
+[download]
+hash = 'b42fa3db1ad4409a1950ebca743ea61399643b0aa94930c5201b99b2276251f54badb7f77a2a42c18daf58b9d581fab34e6d8a5da5ef3523106c9988afdc12e5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/JHgf35QL/versions/hFLBceGU/nemos-inventory-sorting-Fabric-1.20.1-1.8.2.jar'
+
+[update.modrinth]
+mod-id = 'JHgf35QL'
+version = 'hFLBceGU'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'

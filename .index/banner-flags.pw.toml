@@ -1,18 +1,46 @@
-filename = 'banner-flags-2.3.jar'
+filename = 'banner-flags-3.1.jar'
 name = 'Banner Flags'
-side = 'both'
+side = ''
 x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = [ 'forge', 'quilt', 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4' ]
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [
+    '1.20',
+    '1.20.1',
+    '1.20.2 Pre-Release 1',
+    '1.20.2-pre1',
+    '1.20.2',
+    '1.20.3 Pre-Release 1',
+    '1.20.3 Pre-Release 2',
+    '1.20.3 Pre-Release 3',
+    '1.20.3 Pre-Release 4',
+    '1.20.3-pre1',
+    '1.20.3-pre2',
+    '1.20.3-pre3',
+    '1.20.3-pre4',
+    '1.20.3',
+    '1.20.4',
+    '23w31a',
+    '23w32a',
+    '23w33a',
+    '23w35a',
+    '23w40a',
+    '23w41a',
+    '23w42a',
+    '23w43a',
+    '23w43b',
+    '23w44a',
+    '23w45a',
+    '23w46a'
+]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '2.3+mod'
+x-prismlauncher-version-number = '3.1+mod'
 
 [download]
-hash = '6454fd1327b7d61aa746e79a52a45a1ed2799eb6ab91f13c2426d4fc9a835f1b61bfc37159a396a30b9934842e32003f98bd07c2640ab4be7bf49d3e53a78d79'
+hash = '8a9bcc37cfe68480b549d08afbaf6218c60297380b3945a408f315fc2acf832df095f5d654a835b079fa8beb45d85790781ec1cd8a6ce296cdd10f5e1c52df02'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/cCStmVIN/versions/bApPWaYy/banner-flags-2.3.jar'
+url = 'https://cdn.modrinth.com/data/cCStmVIN/versions/KSmP27NW/banner-flags-3.1.jar'
 
 [update.modrinth]
 mod-id = 'cCStmVIN'
-version = 'bApPWaYy'
+version = 'KSmP27NW'

@@ -1,0 +1,25 @@
+filename = 'stormiespiders-fabric-1.20.1-3.2.0.jar'
+name = "Stormie's Spiders"
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '3.2.0-fabric'
+
+[download]
+hash = '3ce8233dee208b233bc5431c1271f4b89f1e39483648ce1d7882b6db2327bc79021914ac7ec7a4f9c6e2f0a94860a06a9ed52a75d61966c10704d7d0b701bd0d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/3dsI6Hle/versions/eOfHZKi6/stormiespiders-fabric-1.20.1-3.2.0.jar'
+
+[update.modrinth]
+mod-id = '3dsI6Hle'
+version = 'eOfHZKi6'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'mOgUt4GM'
+type = 'OPTIONAL'
