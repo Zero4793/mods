@@ -1,0 +1,18 @@
+filename = 'bettercommandblockui-0.5.2-1.20.jar'
+name = 'Better Command Block UI'
+side = 'client'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.5.2'
+
+[download]
+hash = '61a89ccd7be2228b3b4ff365f915dd8daa6558f1a63bf86ef906627ce55ff78ee3ef8f9e29def91c1ed16b4b851da7324980cb49f40b56cb4602d8ee62823954'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/8iQcgjQ2/versions/i9cfZYZy/bettercommandblockui-0.5.2-1.20.jar'
+
+[update.modrinth]
+mod-id = '8iQcgjQ2'
+version = 'i9cfZYZy'
