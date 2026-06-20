@@ -1,0 +1,25 @@
+filename = 'mininghelmet-1.0.2-1.20.1.jar'
+name = 'Mining Helmet (Now Dyable)'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.2', '1.20.3', '1.20.4' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.2-1.20.1'
+
+[download]
+hash = '928c763b726177e5e9614d56def6f106cee355cff55d553d734eac7acb07a36db65902e94a8bc24520fd559e52f390b65e9b5e12b43d4b01f31402824800c380'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/WOkoFYT8/versions/L78rX4x0/mininghelmet-1.0.2-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'WOkoFYT8'
+version = 'L78rX4x0'
+
+[[x-prismlauncher-dependencies]]
+addonId = '8BmcQJ2H'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'yBW8D80W'
+type = 'REQUIRED'
