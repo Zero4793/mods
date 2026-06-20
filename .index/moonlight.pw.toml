@@ -1,20 +1,20 @@
-filename = 'moonlight-1.20-2.16.33-fabric.jar'
+filename = 'moonlight-1.20-2.16.34-fabric.jar'
 name = 'Moonlight'
 side = ''
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.20-2.16.33-fabric'
+x-prismlauncher-version-number = '1.20-2.16.34-fabric'
 
 [download]
-hash = 'a89f9acda9fdbafc6bd75f97fa6952c5898492ada43630bb0d2416ee5bef472c441acb0ecd7d1970b7933b26433de569026d0185417e22d3652bbf30e72227f6'
+hash = '58645f07fab0d7f4fb34810023276c5d3e6a4ab58fee9c179060d5f8435d609b8c990b402a3e5be1769ff45b10fadf4db371b2ae7eb6db7b14095ebaab379aa9'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/twkfQtEc/versions/wchdoZjg/moonlight-1.20-2.16.33-fabric.jar'
+url = 'https://cdn.modrinth.com/data/twkfQtEc/versions/IYl8kNb4/moonlight-1.20-2.16.34-fabric.jar'
 
 [update.modrinth]
 mod-id = 'twkfQtEc'
-version = 'wchdoZjg'
+version = 'IYl8kNb4'
 
 [[x-prismlauncher-dependencies]]
 addonId = 'P7dR8mSH'

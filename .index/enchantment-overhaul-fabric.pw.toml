@@ -1,18 +1,18 @@
-filename = 'enchantment-overhaul-0.5.0+1.20.1.jar'
+filename = 'enchantment-overhaul-0.6.0+1.20.1.jar'
 name = 'Enchantment Overhaul'
 side = ''
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'fabric' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.2', '1.20.3', '1.20.4', '1.20.5', '1.20.6' ]
 x-prismlauncher-release-type = 'beta'
-x-prismlauncher-version-number = '0.5.0-beta+1.20.1'
+x-prismlauncher-version-number = '0.6.0-beta+1.20.1'
 
 [download]
-hash = '4783601d564f806b0243d6fb947464d9729cfb049d0a01b874637a0ff8d47ba58373de734466c0c4983f490de3a7b395f35a724e729a2e344793f5c700bea7a1'
+hash = '0eae7233de3f6b6e4c5cc5fa9d773762c00760ff5f75d17b397525fd5c5267132abfc511b1c74530c15d9d3822a719c44065308cbf1df756d81277a480bb465e'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/iPA46eKp/versions/p0EIVzBn/enchantment-overhaul-0.5.0%2B1.20.1.jar'
+url = 'https://cdn.modrinth.com/data/iPA46eKp/versions/sa6ZlDFu/enchantment-overhaul-0.6.0%2B1.20.1.jar'
 
 [update.modrinth]
 mod-id = 'iPA46eKp'
-version = 'p0EIVzBn'
+version = 'sa6ZlDFu'
