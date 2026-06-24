@@ -1,0 +1,18 @@
+filename = 'Ixeris-4.5.1+1.20.1-fabric.jar'
+name = 'Ixeris'
+side = 'client'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19.4', '1.20', '1.20.1', '1.20.2', '1.20.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '4.5.1+1.20.1-fabric'
+
+[download]
+hash = '593122259f19dc289409fedda4e5f86c42e45668af196e455e8c2725cc384b27371978565cec663aa16e33fb380c0a6e382a6ecb888b613226ade8b203575eee'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/p8RJPJIC/versions/iI0sa9zh/Ixeris-4.5.1%2B1.20.1-fabric.jar'
+
+[update.modrinth]
+mod-id = 'p8RJPJIC'
+version = 'iI0sa9zh'

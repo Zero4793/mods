@@ -1,21 +1,25 @@
-filename = 'justblockshapes-0.3.0+1.20.1-fabric.jar'
+filename = 'justblockshapes-0.4.0+1.20.1-fabric.jar'
 name = 'Just Block Shapes'
-side = 'both'
+side = ''
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '0.3.0'
+x-prismlauncher-version-number = '0.4.0'
 
 [download]
-hash = '17a8023ea1a4bde5fc9da2d351b871d541c01268321221a3d2b1ae09914b4117d695367d5cb143b8310e54d63af2c7c19d942d560b6dc278f3a2b1b0c4a0166d'
+hash = '010371c0766332885b2d80ac04d248cf8e7905df96e1dbf1c1f3626ef2388ee47d36314e36cf09430f0cde8530d1238d1eedc8d60368b4c6197e9ff1de843ec3'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/yggUWseW/versions/xseDrKGR/justblockshapes-0.3.0%2B1.20.1-fabric.jar'
+url = 'https://cdn.modrinth.com/data/yggUWseW/versions/fJxu2sLv/justblockshapes-0.4.0%2B1.20.1-fabric.jar'
 
 [update.modrinth]
 mod-id = 'yggUWseW'
-version = 'xseDrKGR'
+version = 'fJxu2sLv'
 
 [[x-prismlauncher-dependencies]]
 addonId = 'P7dR8mSH'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'lhGA9TYQ'
 type = 'REQUIRED'
