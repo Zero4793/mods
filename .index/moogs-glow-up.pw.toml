@@ -1,0 +1,18 @@
+filename = 'glow_up-fabric-1.2.1-1.20-1.20.1-fabric.jar'
+name = "Moog's Glow Up"
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.2.1-1.20-1.20.1'
+
+[download]
+hash = 'ae5cf0a86574d91c869d2ce1fc0916c63db82dcf034c6ca616a4bf9c1e94e1c8ec809131b0593e3a14f7703481ef19e0af7b0942493d8bec8a64a47757dcaa6a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/iLlwyhcZ/versions/BhHYjPEs/glow_up-fabric-1.2.1-1.20-1.20.1-fabric.jar'
+
+[update.modrinth]
+mod-id = 'iLlwyhcZ'
+version = 'BhHYjPEs'

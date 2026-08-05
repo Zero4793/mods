@@ -1,0 +1,21 @@
+filename = 'MoogsMineshaftsReimagined-1.20-1.0.2.jar'
+name = "MMR - Moog's Mineshafts Reimagined"
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4', '1.20.5', '1.20.6' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.2'
+
+[download]
+hash = '8446e95327d667e2411305fc03696bf6097d5837b5ce864b0e4b9b7f96a643f4fd34f41d9e87cebc10a52af086a1f848c4f348aa612e446c69c12de5096213f7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/z25hqseO/versions/fjkyFY5g/MoogsMineshaftsReimagined-1.20-1.0.2.jar'
+
+[update.modrinth]
+mod-id = 'z25hqseO'
+version = 'fjkyFY5g'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1oUDhxuy'
+type = 'REQUIRED'

@@ -1,0 +1,18 @@
+filename = 'moogs_structures-1.20-1.20.4-3.0.2-fabric.jar'
+name = "Moog's Structure Lib (moogs_structures)"
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '3.0.2'
+
+[download]
+hash = '7d681d5c18b8214d38293ee8697d6f30540c77e0812f925001716657aea86c8fed6ea440834b5d0c367c874f2fc71d3aad6ea2d46622b73c77a9bb589bd25d94'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/1oUDhxuy/versions/nF1qmTht/moogs_structures-1.20-1.20.4-3.0.2-fabric.jar'
+
+[update.modrinth]
+mod-id = '1oUDhxuy'
+version = 'nF1qmTht'
